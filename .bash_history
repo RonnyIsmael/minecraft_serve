@@ -242,3 +242,24 @@ cd ..
 cd..
 cd ..
 ls
+sh run.sh
+clear
+ls
+cd mods/
+cat > filename.txt
+ls
+cd ..
+ls
+git add .
+git commit -m"mods"
+git push
+ls
+git remote
+git remote add origin git@github.com:RonnyIsmael/minecraft_serve.git
+git push
+git pull
+cd mods/
+ls
+rm filename.txt
+cd ..
+sh run.sh
