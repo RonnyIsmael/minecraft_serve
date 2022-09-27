@@ -263,3 +263,67 @@ ls
 rm filename.txt
 cd ..
 sh run.sh
+java -jar Iris-Installer-2.0.5.jar
+java -jar Iris-Installer-2.0.5.jar --installServer
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=:localhost:0.0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=:0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=0.
+export DISPLAY=:0.0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=0
+java -jar Iris-Installer-2.0.5.jar
+sudo nano /etc/ssh/sshd_config
+export DISPLAY=127.0.0.1:0.0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=:0
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=25.58.64.124
+java -jar Iris-Installer-2.0.5.jar
+clear
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=:0
+java -jar Iris-Installer-2.0.5.jar
+java -Djava.awt.headless=true
+unset DISPLAY
+java -Djava.awt.headless=true
+java -jar Iris-Installer-2.0.5.jar
+whoim
+whoiam
+whoami
+java -Djava.awt.headless=true -jar Iris-Installer-2.0.5.jar
+unset DISPLAY
+java -Djava.awt.headless=true -jar Iris-Installer-2.0.5.jar
+export DISPLAY=:0
+java -Djava.awt.headless=true -jar Iris-Installer-2.0.5.jar
+unset DISPLAY
+java -jar Iris-Installer-2.0.5.jar
+echo $DISPLAY
+export DISPLAY=localhost:10.0
+echo $DISPLAY
+java -jar Iris-Installer-2.0.5.jar
+ sshd_config — OpenSSH daemon configuration file
+nano /etc/ssh/sshd_config
+sudo nano /etc/ssh/sshd_config
+ls 
+cd world/
+ls
+cd serverconfig/
+ls
+nano voicechat-server.toml
+ls
+echo $DISPLAY
+java -jar Iris-Installer-2.0.5.jar
+sudo nano /etc/ssh/sshd_config
+echo $DISPLAY
+java -jar Iris-Installer-2.0.5.jar
+export DISPLAY=localhost:10.0
+echo $DISPLAY
+java -jar Iris-Installer-2.0.5.jar
+echo $DISPLAY
+export DISPLAY=localhost:10.0
+java -jar Iris-Installer-2.0.5.jar
